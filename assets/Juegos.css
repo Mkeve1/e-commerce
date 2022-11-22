@@ -1,0 +1,32 @@
+.Container{
+    margin: auto;
+    
+}
+.Container_titulo{
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.35rem;
+    margin-top: 15px;
+    margin-left: 135px;
+}
+.Container_imagenes{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+    margin-left: 115px;
+    margin-right: 55px;
+}
+
+.imagenes_starwar{
+    padding: 0.5521rem;
+}
+.productos{
+    font-family: 'Fredoka One', cursive; 
+}
+.precio{
+    font-family: 'Fredoka One', cursive;
+
+}
+
+a{
+    font-weight: bold;
+}
